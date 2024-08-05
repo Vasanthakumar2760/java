@@ -1,0 +1,79 @@
+/* .main{
+    color: red;
+    font-size: 20px;
+}
+.done{
+    color:rgb(10, 10, 10);
+    background-color: aquamarine;
+    font-size: large;
+    width: 20px;
+    height: 20px;
+    
+    
+} */
+ /* .main{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+ } */
+ /* .main{
+    border: 1px solid black;
+    width:25%;
+    height:120px;
+    padding: 30px;
+    margin: 40px;
+    background-color: rgb(250, 156, 230);
+ }
+ iframe{
+    margin: 80px;
+    width: 120px;
+    height: 120px;
+
+
+
+
+ } */
+
+ /* .hok{
+   background-image: url('./Files/Uchiha\ Itachi.jpg');
+   width: 100%;
+   height: 100vh;
+ }
+
+ .mad{
+   width: 400px;
+   height: 300px;
+ } */
+
+
+ .nav{
+   display: flex;
+   justify-content: space-between;
+   background-color: rgb(231, 125, 252);
+   }
+
+ .huk{
+   margin-top: 10px;
+}
+
+ul{
+   display: flex;
+   align-items: center;
+   }
+
+li{
+   list-style: none;
+   width: 100;
+   }
+a{
+   text-decoration: none;
+   padding: 40px;
+   justify-content: center;
+   color: black ;
+   }
+
+ li a:hover{
+   width: 100%;
+   background-color: rgb(206, 76, 76);
+}
